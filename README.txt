@@ -1,0 +1,1 @@
+using .txt to signify im creating from scratch
