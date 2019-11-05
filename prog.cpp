@@ -2,6 +2,6 @@
 #include <cstdlib>
 int main(){
 std::cout << "Hello World!";
-getc();
+getc(stdin);
 return 0;
 }
